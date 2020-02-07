@@ -1,22 +1,27 @@
-## Project name
+ ## Project name
 - Portfolio
 
-## Project Author
+ ## Project Author
 - Ian Adika
 
-## Project Description
+ ## Project Description
  - This is my first portforlio that displays my journey code as a proffesion and my day to day life
  
  ## Technology used
  - HTML
  - CSS 
 
- ### Technical requirements
+ ## Technical requirements
  - If you want to view the project on your machine;
  * git clone
  * You need to have internet on your machine to run the website
- 
- #### Content information
+ * You need to have a github account
+
+ ## Live Link
+  - Click to get my Github link
+  -  https://ianadika44.github.io/Ian_portfolio/
+ ## Content information
+
  
  
  MIT License

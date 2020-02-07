@@ -14,7 +14,8 @@
  ### Technical requirements
  - If you want to view the project on your machine;
  * git clone
- * 
+ * You need to have internet on your machine to run the website
+ 
  #### Content information
  
  

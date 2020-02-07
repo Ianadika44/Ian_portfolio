@@ -79,7 +79,7 @@ height: 0px;
 
 }
 
-.fa-facebook{
+/* .fa-facebook{ */
     
     color: white;
     background-color:blue ;
@@ -87,27 +87,27 @@ height: 0px;
 
 }
    
-.fa-twitter{
+/* .fa-twitter{ */
 background-color: cadetblue;
 color: white;
 border-radius: 15px;
 }
 
-.fa-instagram{
+/* .fa-instagram{ */
     background-color: red;
     color: white;
     border-radius: 15px;
 }
 
 
-.fa-youtube{
+/* .fa-youtube{ */
     background-color:rgba(202, 21, 21, 0.897) ;
     color: white;
     border-radius: 15px;
     
     
 }
-/* p:footer{ */
+p:footer{
     text-align: center;
     font-weight: bolder;
     color: rgb(25, 0, 255);

@@ -1,0 +1,126 @@
+ul{
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: rgb(38, 54, 197);
+    list-style: none;
+}
+ li{
+    float: left;
+    text-decoration: salmon;
+    font-size: medium;
+    border-spacing: 50px;
+    text-align:center;
+}
+
+li a:hover{
+    background-color: salmon;
+}
+li a{
+    display: inline;
+    color: seashell;
+    text-align: center;
+    padding: 60px;
+    text-decoration: none;
+}
+body{
+    text-align: center;
+    background-image: url("https://bit.ly/2RYwihh");
+    font-size: x-large;
+    float: inline-start;
+    overflow: auto;
+}
+th{
+    text-align: center;
+    border-spacing: 5px;
+}
+table{
+    text-align: center;
+    border-spacing: 10px;
+    background-color: cadetblue;
+    padding: 80px;
+    background-size: 500px;
+    width: 100%;
+    height: 30%;
+    
+}
+th{
+    color: rgb(25, 0, 255);
+    font-size: 30px;
+    font-weight: bolder;
+}
+h1{
+    font-size: 100px;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.877);
+    text-align: center;
+    text-decoration: coral;
+
+}
+.one{
+    text-align: left;
+    float: left;
+    padding: 0ch;
+    margin: 0vmax;
+}
+.two{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.fa{
+padding: 50px;
+padding-top: 0px;
+width: 2px;
+padding-left: 2px;
+font-size:50px;
+height: 0px;
+
+}
+
+.fa-facebook{
+    
+    color: white;
+    background-color:blue ;
+    border-radius: 15px;
+
+}
+   
+.fa-twitter{
+background-color: cadetblue;
+color: white;
+border-radius: 15px;
+}
+
+.fa-instagram{
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+}
+
+
+.fa-youtube{
+    background-color:rgba(202, 21, 21, 0.897) ;
+    color: white;
+    border-radius: 15px;
+    
+    
+}
+p:footer{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(25, 0, 255);
+    text-emphasis: none;
+    text-decoration: transparent;
+    float: left;
+    padding-top: 0vmin;
+}
+img{
+  border-radius: 90%;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  height: 30%;
+
+
+} 

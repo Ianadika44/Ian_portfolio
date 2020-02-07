@@ -20,12 +20,9 @@
  ## Live Link
   - Click to get my Github link
   -  https://ianadika44.github.io/Ian_portfolio/
- ## Content information
-
- 
- 
+ ## Copyright and Licence information 
  MIT License
-Copyright (c) 2020 Ian Adika
+Copyright(2019) Ian Adika
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

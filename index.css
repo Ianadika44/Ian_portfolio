@@ -30,11 +30,11 @@ body{
     float: inline-start;
     overflow: auto;
 }
-th{
+/* th{ */
     text-align: center;
     border-spacing: 5px;
 }
-table{
+/* table{ */
     text-align: center;
     border-spacing: 10px;
     background-color: cadetblue;

@@ -5,7 +5,7 @@
 - Ian Adika
 
  ## Project Description
- - This is my first portforlio that displays my journey code as a proffesion and my day to day life
+ - This is my first portforlio that displays my journey code as a proffesion and my day to day life.
  
  ## Technology used
  - HTML

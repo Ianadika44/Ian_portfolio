@@ -20,6 +20,10 @@
  ## Live Link
   - Click to get my Github link
   -  https://ianadika44.github.io/Ian_portfolio/
+ ## Contact Details
+  - Email: adika19ian@gmail.com
+  - Phone-No:0757441659
+  - Github:adika19ian
  ## Copyright and Licence information 
  MIT License
 Copyright(2019) Ian Adika

@@ -1,11 +1,20 @@
-# My portfolio
- This is my first portforlio that displays my journey code as a proffesion and my day to day life
- ## languages used
- HTML
- CSS 
+## Project name
+- Portfolio
+
+## Project Author
+- Ian Adika
+
+## Project Description
+ - This is my first portforlio that displays my journey code as a proffesion and my day to day life
+ 
+ ## Technology used
+ - HTML
+ - CSS 
 
  ### Technical requirements
- Any web browser but i would recommend google chrome
+ - If you want to view the project on your machine;
+ * git clone
+ * 
  #### Content information
  
  

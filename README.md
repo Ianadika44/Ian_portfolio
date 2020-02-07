@@ -21,7 +21,7 @@
  ## Contact Details
   - Email: adika19ian@gmail.com
   - Phone-No:0757441659
-  - Github:Ianadika44
+  - Github: Ianadika44
  ## Copyright and Licence information 
  MIT License
 Copyright(2019) Ian Adika

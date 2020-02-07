@@ -12,8 +12,6 @@
  - CSS 
 
  ## Technical requirements
- - If you want to view the project on your machine;
- * git clone
  * You need to have internet on your machine to run the website
  * You need to have a github account
 
@@ -23,7 +21,7 @@
  ## Contact Details
   - Email: adika19ian@gmail.com
   - Phone-No:0757441659
-  - Github:adika19ian
+  - Github:Ianadika44
  ## Copyright and Licence information 
  MIT License
 Copyright(2019) Ian Adika
